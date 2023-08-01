@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "search.exclude": {
+        "**/.vscode": true,
+        "**/.github": true,
+        "**/.husky": true,
+        "**/node_modules": true,
+        "**/dist": true,
+        "package-lock.json": true,
+        "package.json": true
+    }
+}
